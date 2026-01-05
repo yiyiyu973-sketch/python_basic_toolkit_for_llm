@@ -13,6 +13,7 @@ This repository contains a suite of enterprise-grade Python scripts designed for
 
 ##  项目结构 | Project Structure
 python_basic_toolkit_for_llm/
-[cite_start]├── basic_tools/      # 核心逻辑模块 (Core Logic)
-[cite_start]├── test_cases/       # 自动化测试用例 (Test Suites)
-[cite_start]└── README.md         # 项目文档说明 (Documentation)
+├── basic_tools/      # 核心逻辑模块 (Core Logic)
+├── test_cases/       # 自动化测试用例 (Test Suites)
+└── README.md         # 项目文档说明 (Documentation)
+
